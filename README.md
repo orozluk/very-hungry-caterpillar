@@ -16,3 +16,5 @@ This program can be improved in several ways
 - Decouple tracing system implementation
 
 And it can be used to play with and show off your skills with SOLID principles. 
+
+If you can add some unit test, that would be nice too
