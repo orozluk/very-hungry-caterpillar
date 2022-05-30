@@ -123,7 +123,7 @@
                     Trace.WriteLine("Day is Sunday");
 
                     caterpillar = "@@@@@@@@@@";
-                    caterpillarSize = 7;
+                    caterpillarSize = 10;
                     eatenFoodType = new[] { "Apple", "Pear", "Plum", "Straberry", "Orange", "ChocolateCake", "IceCreamCone", "Pickle", "SliceSwissCheese", "SliceSalami", "NiceGreenLeaf" };
                     eatenFoodQuantity = new[] { 1, 2, 3, 4, 5, 1, 1, 1, 1, 1, 1 };
                     Console.WriteLine("On " + day + " the very hungry caterpillar ate " + eatenFoodQuantity[10] + " " + eatenFoodType[10]);
@@ -137,7 +137,7 @@
                     Trace.WriteLine("Day is TwoWeeksLater");
 
                     caterpillar = "[@@@@@@@@@@]";
-                    caterpillarSize = 7;
+                    caterpillarSize = 10;
                     eatenFoodType = new[] { "Apple", "Pear", "Plum", "Straberry", "Orange", "ChocolateCake", "IceCreamCone", "Pickle", "SliceSwissCheese", "SliceSalami", "NiceGreenLeaf" };
                     eatenFoodQuantity = new[] { 1, 2, 3, 4, 5, 1, 1, 1, 1, 1, 1 };
                     Console.WriteLine(day + " the very hungry caterpillar built a cocoon");
